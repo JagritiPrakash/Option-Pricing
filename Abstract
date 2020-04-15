@@ -1,0 +1,16 @@
+This project is related to the dynamics of stock price and various mathematical models used for it.
+The stock of a corporation is nothing but the equity stock of its owners. 
+A share represents fractional ownership of the corporation in proportion to the total number of shares.
+In layman's language, the stock price is the highest amount the person is willing to pay for the stock, or the lowest amount that the stock can be bought for. 
+Random walk techniques are used to model behaviour of asset prices, in particular share prices on stock markets. 
+The stock price tends to follow Brownian Motion. The profitability of an asset is best described by its rate of return.
+The Geometric Brownian Motion can model perturbations of  the return on a share of stock.
+The Black Scholes and the Heston models have been applied to a plethora of financial assets. 
+The Black Scholes model calculates implied volatility through an iterative process that equates call option premium to the variables like stock price, strike price, rate of interest, time to expiration, etc.
+We have also calculated and observed the difference in actual Implied Volatility and the one obtained from Brenner and Subrahmanyam's approximation for data taken from National Stock Exchange (NSE). 
+Regime Switching is an approach to model structural changes in a data series. 
+The Regime Switching Geometric Brownian Motion of asset price dynamics captures many Stylized facts. 
+Stylized facts are widely used in economics, in particular to motivate in the making of the model and to validate it.
+It is often a broad generalization that summarizes data, the data which is essentially true but may have inaccuracies in the detail. 
+Stylized facts like heavy tailed distribution has a tail that is heavier than an exponential distribution.
+Our project aims to testify regime switching model taking into consideration some other relatively less explored Stylized facts.
